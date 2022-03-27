@@ -1,0 +1,4 @@
+name: SlyceBungeeCord
+author: PotatoSpuds
+main: net.slyce.bungee.Main
+version: 1.2
